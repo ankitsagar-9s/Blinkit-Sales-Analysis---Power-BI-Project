@@ -89,7 +89,6 @@ The objective is to **analyze Blinkit’s sales performance, customer satisfacti
 ## 🔧 Tech Stack  
 - **Power BI** – Data visualization & dashboard creation  
 - **DAX (Data Analysis Expressions)** – KPI calculations  
-- **SQL (Optional)** – Data preprocessing (if applicable)  
 - **Excel/CSV** – Data source  
 
 ---
