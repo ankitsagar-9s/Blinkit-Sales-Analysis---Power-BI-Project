@@ -117,21 +117,4 @@ The objective is to **analyze Blinkit’s sales performance, customer satisfacti
 3. **Outlet-based performance** – Evaluating which outlets perform best and worst can drive operational improvements.  
 4. **Customer satisfaction insights** – Analyzing ratings alongside sales helps improve product offerings.  
 
----
 
-## 📌 Future Enhancements  
-✅ Integrate **real-time data refresh** in Power BI.  
-✅ Develop **predictive analytics models** for future sales forecasting.  
-✅ Implement **advanced DAX calculations** for deeper insights.  
-
----
-
-## 📩 Contact & Contributions  
-Contributions are welcome! If you find any issues or have suggestions, feel free to open an issue or pull request.  
-
-📧 **Contact:** [your-email@example.com]  
-🔗 **GitHub:** [your-github-profile]  
-
----  
-
-This README provides a structured overview of your **Blinkit Analysis** project, making it easy for others to understand, contribute, and use. Let me know if you need any modifications! 🚀
